@@ -64,4 +64,4 @@ python "dash project/Dash project.py"
 4. Open your browser and go to `http://localhost:8050`
 
 ## 👨‍💻 Author
-Myles Chukwukaz
+Miles Chukwuka
